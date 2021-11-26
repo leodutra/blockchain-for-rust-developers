@@ -62,4 +62,8 @@ Blockchain {
 
 ## License
 
-This code is part of the book Blockchain for Rust Developers (Ayush Kumar Mishra) and should not be used or modified without express authorization from the author.
+This code is part of the book Blockchain for Rust Developers ([Ayush Kumar Mishra][author]) and should not be used or modified without express authorization from the author.
+
+
+
+[author]: https://www.amazon.com/Ayush-Kumar-Mishra/e/B088B9MWWV
