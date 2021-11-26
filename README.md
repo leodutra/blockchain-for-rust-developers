@@ -6,7 +6,7 @@ Suggested implementation for learning the basics of blockchain from the book Blo
 
 ## Example Output
 
-```json
+```
 Block Mined
 true
 Blockchain {
